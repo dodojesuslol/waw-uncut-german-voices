@@ -1,0 +1,9 @@
+# game files are never committed
+*.ff
+*.iwd
+*.bik
+*.exe
+*.bin
+*.rar
+*.zip
+__pycache__/
